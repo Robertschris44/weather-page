@@ -32,3 +32,6 @@ created a variable of d
 created an array to represnt days of the week
 passed days as a parameter and created an if/else function to return the day
 created for loop to make sure we get all days of the week and not just one
+
+## Link
+Your link (https://robertschris44.github.io/weather-page/)
